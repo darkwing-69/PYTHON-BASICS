@@ -1,3 +1,4 @@
+#A student will not be allowed to sit in exam if his/her attendence is less than 75%.
 a=int(input("Enter no of cls held:"))
 b=int(input("Enter no of cls  attended:"))
 p=b/a*100
