@@ -27,6 +27,8 @@ Enter your Mail id:runoutarun15@gmail.com
 Enter your password:Thanos
 Password Declined
 Passowrd needs to be mixed of numerical characters
+
+Enter your Mail id:runoutarun15@gmail.com
 Enter your password:Thanos1234
 Strong Password
 Password Approved
