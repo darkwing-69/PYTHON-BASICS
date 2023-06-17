@@ -1,3 +1,4 @@
+#To Give Bonus if they reached The Monthly Target
 Tar=int(input("Enter your sale count:"))
 sal=int(input("Enter your salary:"))
 if Tar<30:
