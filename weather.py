@@ -1,3 +1,4 @@
+# To check the weather accrding to the temperature
 wthr=float(input("Enter The temperature  in celsius:"))
 if wthr>=35 and wthr<=49:
     print("According to  this temp weather will be too hot")
