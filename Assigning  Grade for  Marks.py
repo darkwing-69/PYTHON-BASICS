@@ -1,5 +1,4 @@
 # assigning grades (A, B, C) based on marks obtained by a student.
-
 Mark=int(input("Enter Your Marks:"))
 percent=Mark/500*100
 print("Your percentage will be:",percent)
